@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>pratice-2</h1>
+    <script>
+        var book = {
+            type: 'book',
+            pages: 220,
+            title: 'My Book',
+            author: {
+                name: 'Alex',
+                age: 33,
+                email: 'test@foo.com',
+            },
+        };
+
+        console.log(JSON.stringify(book));
+        // {"type":"book","pages":220,"title":"My Book","author":{"name":"Alex","age":33,"email":"test@foo.com"}}
+
+    </script>
+</body>
+
+</html>
