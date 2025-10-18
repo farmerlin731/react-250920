@@ -8,14 +8,32 @@
     },
     {
       "id": "060e1371-1b27-4df3-92a5-671a7d1a863c",
-      "title": "New Post",
-      "body": "This is a new post.",
+      "title": "a title",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus, aliquam, repudiandae assumenda dicta natus amet doloribus ipsum harum nostrum, ullam nemo architecto iusto? Corporis nihil quisquam necessitatibus vel voluptates esse?",
       "views": 0
     },
     {
       "id": "9554e6f1-866a-483c-bf06-14fa389ad5f2",
       "title": "a title",
       "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus, aliquam, repudiandae assumenda dicta natus amet doloribus ipsum harum nostrum, ullam nemo architecto iusto? Corporis nihil quisquam necessitatibus vel voluptates esse?",
+      "views": 0
+    },
+    {
+      "id": "new_id_98.68678512743077",
+      "title": "New Post",
+      "body": "This is a new post.",
+      "views": 0
+    },
+    {
+      "id": "new_id_33.26099363465318",
+      "title": "New Post",
+      "body": "This is a new post.",
+      "views": 0
+    },
+    {
+      "id": "new_id_10.62297461161853",
+      "title": "New Post",
+      "body": "This is a new post.",
       "views": 0
     }
   ]
