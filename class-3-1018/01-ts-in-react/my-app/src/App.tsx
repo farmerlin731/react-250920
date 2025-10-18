@@ -6,6 +6,7 @@ import Form from "./components/Form";
 import MultiInputForm from "./components/MultiInputForm";
 import BasicForm from "./components/BasicForm";
 import LoopForm from "./components/LoopForm";
+import LoopFormNew from "./components/LoopFormNew";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -25,6 +26,7 @@ function App() {
       <MultiInputForm></MultiInputForm> */}
       <BasicForm></BasicForm>
       <LoopForm></LoopForm>
+      <LoopFormNew></LoopFormNew>
     </>
   );
 }
